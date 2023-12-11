@@ -1,7 +1,6 @@
 public class Post {
 
     public FormDate birthday;
-
     public String name;
     public String patronymic;
     public String surname;
